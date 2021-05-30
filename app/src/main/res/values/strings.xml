@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JonIntentService Example</string>
+    <string name="start_jobintent_service">Start JobIntent Service</string>
+</resources>
